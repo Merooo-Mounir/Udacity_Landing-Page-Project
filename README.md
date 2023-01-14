@@ -44,11 +44,11 @@ The landing page presents the first opportunity to fully combine your skills in 
 
 ### Project Rubric
 
-  ![Project Rubric](https://review.udacity.com/#!/rubrics/3601/view)
+  [Project Rubric](https://review.udacity.com/#!/rubrics/3601/view)
 
 ### Get the Starter Code
 
-- You can download the starter code ![here](https://github.com/udacity/cd0428-landing-page/) .
+- You can download the starter code [here](https://github.com/udacity/cd0428-landing-page/) .
 - The starter code has a static, non-interactive version of the project so you can get a jump-start on development!
 
 ## Usage
@@ -85,7 +85,7 @@ To see the code, please open
    click on a section in the navigation bar triggers soft scroll to anchor ID using scrollTO event.
 
 6. **REFACTOR:**
-   When the code is complete, running it through an ![eslinter](https://eslint.org/play/) is going to help you get started in refactoring.
+   When the code is complete, running it through an [eslinter](https://eslint.org/play/) is going to help you get started in refactoring.
 
 7. **Add the functionality to distinguish links in navigation bar**
    Current section in the navigation bar is highlighted on Scroll.
@@ -102,7 +102,7 @@ To see the code, please open
    Comments should be present at the beginning of each procedure and class.
 
 12. **README**
-    References: [markdown guide](https://www.markdownguide.org/basic-syntax/) and ![example of README contents](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md)
+    References: [markdown guide](https://www.markdownguide.org/basic-syntax/) and [example of README contents](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md)
 
 ## Contribute
 
@@ -133,10 +133,10 @@ This program is free software: you can redistribute it and/or modify it under th
 
 *You should write your code and markup to meet the specifications provided in these style guides:*
 
- ![HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
- ![CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
- ![JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
- ![Git Style Guide](https://udacity.github.io/git-styleguide/)
+ [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
+ [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
+ [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
+ [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ### References
 
@@ -144,32 +144,32 @@ This program is free software: you can redistribute it and/or modify it under th
 
 - ![Document](https://developer.mozilla.org/en-US/docs/Web/API/Document).
 - ![events](https://developer.mozilla.org/en-US/docs/Web/API/Event).
-- ![addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener).
-- ![querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector).
-- ![querySelectorAll()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll).
-- ![getElementById()](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById).
-- ![getElementsByClassName()](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName).
-- ![className](https://developer.mozilla.org/en-US/docs/Web/API/Element/className).
-- ![classList](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList#Methods).
-- ![add()](https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/add).
-- ![remove()](https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/remove).
-- ![replace()](https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/replace).
-- ![toggle()](https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/toggle).
-- ![innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML).
-- ![data-*](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*).
-- ![The Anchor element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#examples).
-- ![getBoundingClientRect()](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect).
-- ![scrollTo()](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo).
-- ![scrollIntoView()](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView);
-- ![scroll-behavior](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior).
-- ![Template literals (Template strings)](<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals>
-- ![offsetHeight](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetHeight)
+- [addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener).
+- [querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector).
+- [querySelectorAll()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll).
+- [getElementById()](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById).
+- [getElementsByClassName()](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName).
+- [className](https://developer.mozilla.org/en-US/docs/Web/API/Element/className).
+- [classList](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList#Methods).
+- [add()](https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/add).
+- [remove()](https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/remove).
+- [replace()](https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/replace).
+- [toggle()](https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/toggle).
+- [innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML).
+- [data-*](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*).
+- [The Anchor element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#examples).
+- [getBoundingClientRect()](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect).
+- [scrollTo()](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo).
+- [scrollIntoView()](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView);
+- [scroll-behavior](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior).
+- [Template literals (Template strings)](<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals>
+- [offsetHeight](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetHeight)
 
-# Footer
+## Footer
 
 - [Back to top](#table-of-contents)
 
-## Versions
+### Versions
 
 This is version 2.0 of the Landing Page Project.
 
