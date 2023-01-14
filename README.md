@@ -142,8 +142,8 @@ This program is free software: you can redistribute it and/or modify it under th
 
 *Make sure you are comfortable with the content from the JavaScript and the DOM.*
 
-- ![Document](https://developer.mozilla.org/en-US/docs/Web/API/Document).
-- ![events](https://developer.mozilla.org/en-US/docs/Web/API/Event).
+- [Document](https://developer.mozilla.org/en-US/docs/Web/API/Document).
+- [events](https://developer.mozilla.org/en-US/docs/Web/API/Event).
 - [addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener).
 - [querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector).
 - [querySelectorAll()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll).
