@@ -40,24 +40,18 @@ The landing page presents the first opportunity to fully combine your skills in 
 
 ### Introduction
 
-- [Back to top](#table-of-contents)
-
   This project requires you to build a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
 
 ### Project Rubric
-
-- [Back to top](#table-of-contents)
 
   ![Project Rubric](https://review.udacity.com/#!/rubrics/3601/view)
 
 ### Get the Starter Code
 
-- [Back to top](#table-of-contents)
-
 - You can download the starter code ![here](https://github.com/udacity/cd0428-landing-page/) .
 - The starter code has a static, non-interactive version of the project so you can get a jump-start on development!
 
-# Usage
+## Usage
 
 [(Back to top)](#table-of-contents)
 
@@ -68,13 +62,11 @@ To see the code, please open
 - [CSS](css/styles.css), for CSS code.
 - [JS](js/app.js), for JavaScript Code.
   
-# Development
+## Development
 
 - [Back to top](#table-of-contents)
 
 ### Instructions
-
-- [Back to top](#table-of-contents)
 
 1. Start by linking your **app.js**.
 
@@ -112,13 +104,11 @@ To see the code, please open
 12. **README**
     References: ![markdown guide](https://www.markdownguide.org/basic-syntax/) and ![example of README contents](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md)
 
-# Contribute
+## Contribute
 
 [(Back to top)](#table-of-contents)
 
-## Adding new features or fixing bugs
-
-[(Back to top)](#table-of-contents)
+### Adding new features or fixing bugs
 
 **Suggested:**
 
@@ -128,7 +118,7 @@ To see the code, please open
  4. Update/change the design/content.
  5. Make sections collapsible.
 
-# License
+## License
 
 - [Back to top](#table-of-contents)
 
@@ -137,7 +127,9 @@ This program is free software: you can redistribute it and/or modify it under th
 [License](LICENSE.txt)
 [GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
 
-# Udacity Style Guides
+## Udacity Style Guides
+
+- [Back to top](#table-of-contents)
 
 *You should write your code and markup to meet the specifications provided in these style guides:*
 
@@ -146,7 +138,7 @@ This program is free software: you can redistribute it and/or modify it under th
  ![JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
  ![Git Style Guide](https://udacity.github.io/git-styleguide/)
 
-## References
+### References
 
 *Make sure you are comfortable with the content from the JavaScript and the DOM.*
 
