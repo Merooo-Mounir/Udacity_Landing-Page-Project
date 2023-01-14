@@ -102,7 +102,7 @@ To see the code, please open
    Comments should be present at the beginning of each procedure and class.
 
 12. **README**
-    References: ![markdown guide](https://www.markdownguide.org/basic-syntax/) and ![example of README contents](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md)
+    References: [markdown guide](https://www.markdownguide.org/basic-syntax/) and ![example of README contents](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md)
 
 ## Contribute
 
