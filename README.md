@@ -162,7 +162,6 @@ This program is free software: you can redistribute it and/or modify it under th
 - [scrollTo()](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo).
 - [scrollIntoView()](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView);
 - [scroll-behavior](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior).
-- [Template literals (Template strings)](<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals>
 - [offsetHeight](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetHeight)
 
 ## Footer
