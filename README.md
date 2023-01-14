@@ -36,7 +36,7 @@ The landing page presents the first opportunity to fully combine your skills in 
   
 ## Getting Started
 
-- [Back to top](#table-of-contents)
+[(Back to top)](#table-of-contents)
 
 ### Introduction
 
@@ -64,7 +64,7 @@ To see the code, please open
   
 ## Development
 
-- [Back to top](#table-of-contents)
+[(Back to top)](#table-of-contents)
 
 ### Instructions
 
@@ -120,7 +120,7 @@ To see the code, please open
 
 ## License
 
-- [Back to top](#table-of-contents)
+[(Back to top)](#table-of-contents)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
 
@@ -129,7 +129,7 @@ This program is free software: you can redistribute it and/or modify it under th
 
 ## Udacity Style Guides
 
-- [Back to top](#table-of-contents)
+[(Back to top)](#table-of-contents)
 
 *You should write your code and markup to meet the specifications provided in these style guides:*
 
@@ -167,7 +167,7 @@ This program is free software: you can redistribute it and/or modify it under th
 
 ## Footer
 
-- [Back to top](#table-of-contents)
+[(Back to top)](#table-of-contents)
 
 ### Versions
 
