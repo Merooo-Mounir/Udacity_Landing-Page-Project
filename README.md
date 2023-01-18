@@ -6,7 +6,7 @@
 <!-- Describe project in brief -->
 This project aims to give you real-world scenarios of manipulating the DOM.
 The functionality you will be using serves two purposes: to prepare you for appending dynamically added data to the DOM, and to show you how javascript can improve the usability of an otherwise static site.
-The landing page presents the first opportunity to fully combine your skills in HTML, CSS, and JavaScript into a large project.
+The landing page presents the first opportunity to thoroughly combine your HTML, CSS, and JavaScript skills into a large project.
 
 ## Demo-Preview
 
